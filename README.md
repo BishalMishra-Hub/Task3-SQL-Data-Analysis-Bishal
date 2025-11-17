@@ -1,4 +1,4 @@
-# ✨ **Task 3 — SQL for Data Analysis**  
+# ✨ **SQL for Data Analysis**  
 A complete SQL mini-project built for practising real-world data analysis skills — including table creation, joins, subqueries, views, indexing, and analytics.  
 This project uses a clean Ecommerce dataset to simulate real business scenarios.
 

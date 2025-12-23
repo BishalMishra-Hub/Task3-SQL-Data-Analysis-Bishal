@@ -1,4 +1,9 @@
-# ✨ **SQL for Data Analysis**  
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00b894,100:00d2ff&height=200&section=header&text=SQL%20for%20Data%20Analysis&fontSize=45&fontColor=ffffff&animation=fadeIn"
+  />
+</div>
+ 
 A complete SQL mini-project built to practise real-world data analysis skills using SQL.  
 This project simulates an Ecommerce business and includes data modelling, joins, analytics, window functions, views, indexing, and insights.
 
